@@ -1,2 +1,2 @@
 # leenankurssi
-yksilöprojektin palautus, muokattu harjoitusta varten
+yksilöprojektin palautus, muokattu harjoitusta varten, muokattu vieläkin
